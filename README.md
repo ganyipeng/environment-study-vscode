@@ -33,6 +33,7 @@ side by side editing <kbd>cmd+\\</kbd>，切换side用<kbd>cmd+1/2/3</kbd><br/>
 打开explorer 快捷键：<kbd>shift+cmd+e</kbd><br/>
 快速open file：<kbd>cmd+click</kbd><br/>
 向上或向下移动行：向上<kbd>alt+up</kbd>，向下：<kbd>alt+down</kbd><br/>
+向上拷贝行：<kbd>shift+alt+up</kbd>，向下拷贝行：<kbd>shift+alt+down</kbd><br/>
 
 ## vscode 碎碎念
 * vscode 默认都颜色主题是黑色背景，虽然我看着不习惯，但是大多数人都使用这个风格，我就也尝试适应一下吧
