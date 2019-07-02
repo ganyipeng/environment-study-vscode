@@ -25,6 +25,7 @@ shift + command + m 即打开 errors/warnnings 面板<br/>
 修改字体大小：shift+command+p 输入 open setting json 在文件中编辑 "editor.fontSize":18 即可<br/>
 打开扩展插件的命令：shift + command + x , 还可以从过滤中只看popular的，点击install 安装即可<br/>
 vscode好像默认就有git view，这样直接在该view的input中写commit的message，然后command+enter即可<br/>
+打开内置都terminal：shift + command + m ，然后点击terminal即可<br/>
 
 ## vscode 碎碎念
 * vscode 默认都颜色主题是黑色背景，虽然我看着不习惯，但是大多数人都使用这个风格，我就也尝试适应一下吧
