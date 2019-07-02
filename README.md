@@ -36,6 +36,12 @@ side by side editing <kbd>cmd+\\</kbd>，切换side用<kbd>cmd+1/2/3</kbd><br/>
 向上拷贝行：<kbd>shift+alt+up</kbd>，向下拷贝行：<kbd>shift+alt+down</kbd><br/>
 fast scrolling：<kbd>alt+scrolling</kbd><br/>
 box selection: <kbd>shift+alt</kbd><br/>
+multi cursor selection: <kbd>alt+click</kbd><br/>
+multi cursor selection: <kbd>alt+cmd+up/down</kbd><br/>
+go to the start of the file: <kbd>cmd+up</kbd><br/>
+go to the end of the file: <kbd>cmd+down</kbd><br/>
+markdown file preview: <kbd>shift+cmd+v</kbd><br/>
+side by side markdown edit and view: <kbd>cmd+k v</kbd><br/>
 
 ## vscode 碎碎念
 * vscode 默认都颜色主题是黑色背景，虽然我看着不习惯，但是大多数人都使用这个风格，我就也尝试适应一下吧
