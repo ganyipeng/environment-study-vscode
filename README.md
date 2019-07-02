@@ -29,7 +29,7 @@ vscode好像默认就有git view，这样直接在该view的input中写commit的
 通过File > Auto Save 来切换文件是否自动保存<br/>
 显示隐藏侧边栏sidebar都快捷键：<kbd>cmd+b</kbd><br/>
 进入全屏模式：<kbd>cmd+k z</kbd>，退出全屏两次esc<br/>
-side by side editing <kbd>cmd+</kbd>，切换side用<kbd>cmd+1/2/3</kbd><br/>
+side by side editing <kbd>cmd+\</kbd>，切换side用<kbd>cmd+1/2/3</kbd><br/>
 
 ## vscode 碎碎念
 * vscode 默认都颜色主题是黑色背景，虽然我看着不习惯，但是大多数人都使用这个风格，我就也尝试适应一下吧
