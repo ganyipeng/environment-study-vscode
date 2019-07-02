@@ -27,6 +27,7 @@ shift + command + m 即打开 errors/warnnings 面板<br/>
 vscode好像默认就有git view，这样直接在该view的input中写commit的message，然后command+enter即可<br/>
 打开内置都terminal：shift + command + m ，然后点击terminal即可<br/>
 通过File > Auto Save 来切换文件是否自动保存<br/>
+显示隐藏侧边栏sidebar都快捷键：command + b<br/>
 
 ## vscode 碎碎念
 * vscode 默认都颜色主题是黑色背景，虽然我看着不习惯，但是大多数人都使用这个风格，我就也尝试适应一下吧
