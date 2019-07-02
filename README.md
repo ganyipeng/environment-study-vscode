@@ -1,4 +1,5 @@
 # environment-study-vscode
+* 工欲善其事，必先利其器。vscode必须全面了解，并熟练使用
 
 ## 学习步骤
 * 看官网文档
@@ -16,9 +17,11 @@ vscode快捷键：https://code.visualstudio.com/shortcuts/keyboard-shortcuts-mac
 打开某个java文件，就会自动提示让安装java插件，点击安装即可<br/>
 shift + command + p 即打开命令面板<br/>
 command + p 即打开 open file 面板<br/>
+~/.vscode/extensions文件夹存放到是vscode的扩展插件<br/>
 
 ## vscode 碎碎念
 * vscode 默认都颜色主题是黑色背景，虽然我看着不习惯，但是大多数人都使用这个风格，我就也尝试适应一下吧
+* 
 
 ## Summary
 * 学习vscode用时1小时，未完成
