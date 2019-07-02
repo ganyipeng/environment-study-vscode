@@ -18,6 +18,7 @@ vscode快捷键：https://code.visualstudio.com/shortcuts/keyboard-shortcuts-mac
 shift + command + p 即打开命令面板<br/>
 command + p 即打开 open file 面板<br/>
 ~/.vscode/extensions文件夹存放到是vscode的扩展插件<br/>
+shift + command + m 即打开 errors/warnnings 面板<br/>
 
 ## vscode 碎碎念
 * vscode 默认都颜色主题是黑色背景，虽然我看着不习惯，但是大多数人都使用这个风格，我就也尝试适应一下吧
