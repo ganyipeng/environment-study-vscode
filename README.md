@@ -42,6 +42,8 @@ go to the start of the file: <kbd>cmd+up</kbd><br/>
 go to the end of the file: <kbd>cmd+down</kbd><br/>
 markdown file preview: <kbd>shift+cmd+v</kbd><br/>
 side by side markdown edit and view: <kbd>cmd+k v</kbd><br/>
+go to the class definition : <kbd>fn+f12</kbd><br/>
+批量替换Symbol: <kbd>fn+f2</kbd><br/>
 
 ## vscode 碎碎念
 * vscode 默认都颜色主题是黑色背景，虽然我看着不习惯，但是大多数人都使用这个风格，我就也尝试适应一下吧
@@ -50,4 +52,5 @@ side by side markdown edit and view: <kbd>cmd+k v</kbd><br/>
 ## Summary
 * 学习vscode用时1小时，未完成
 * 又用了1小时，还是没完成vscode的学习
-* go on
+* 又学来1小时，还是没学完
+* vscode中使用git, 有时间再学吧
