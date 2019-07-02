@@ -1,5 +1,9 @@
 # environment-study-vscode
 
+## 学习步骤
+* 看官网文档
+* 比着官网文档进行实际操作
+
 ## vscode 安装
 https://www.jianshu.com/p/0bc70f94b36a
 
@@ -15,3 +19,6 @@ command + p 即打开 open file 面板<br/>
 
 ## vscode 碎碎念
 * vscode 默认都颜色主题是黑色背景，虽然我看着不习惯，但是大多数人都使用这个风格，我就也尝试适应一下吧
+
+## Summary
+* 学习vscode用时1小时，未完成
