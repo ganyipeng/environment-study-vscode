@@ -32,3 +32,5 @@ vscode好像默认就有git view，这样直接在该view的input中写commit的
 
 ## Summary
 * 学习vscode用时1小时，未完成
+* 又用了1小时，还是没完成vscode的学习
+* go on
