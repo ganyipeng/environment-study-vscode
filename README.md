@@ -10,7 +10,7 @@ https://www.jianshu.com/p/0bc70f94b36a
 
 ## vscode 基本使用
 https://code.visualstudio.com/docs?start=true<br/>
-https://code.visualstudio.com/docs/getstarted/tips-and-tricks#_basics<br/>
+vscode基本操作：https://code.visualstudio.com/docs/getstarted/tips-and-tricks#_basics<br/>
 将code命令添加到command: https://code.visualstudio.com/docs/setup/macdd<br/>
 vscode快捷键：https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf<br/>
 在本机仓库根目录下执行code . 即能用vscode打开该仓库代码<br/>
@@ -30,6 +30,9 @@ vscode好像默认就有git view，这样直接在该view的input中写commit的
 显示隐藏侧边栏sidebar都快捷键：<kbd>cmd+b</kbd><br/>
 进入全屏模式：<kbd>cmd+k z</kbd>，退出全屏两次esc<br/>
 side by side editing <kbd>cmd+\\</kbd>，切换side用<kbd>cmd+1/2/3</kbd><br/>
+打开explorer 快捷键：<kbd>shift+cmd+e</kbd><br/>
+快速open file：<kbd>cmd+click</kbd><br/>
+向上或向下移动行：向上<kbd>alt+up</kbd>，向下：<kbd>alt+down</kbd><br/>
 
 ## vscode 碎碎念
 * vscode 默认都颜色主题是黑色背景，虽然我看着不习惯，但是大多数人都使用这个风格，我就也尝试适应一下吧
