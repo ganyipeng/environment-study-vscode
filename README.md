@@ -19,6 +19,8 @@ shift + command + p 即打开命令面板<br/>
 command + p 即打开 open file 面板<br/>
 ~/.vscode/extensions文件夹存放到是vscode的扩展插件<br/>
 shift + command + m 即打开 errors/warnnings 面板<br/>
+改变theme快捷键：command+k command+t 或者shift+command+p theme<br/>
+修改文件图标：shift + command + p 然后输入 file icon<br/>
 
 ## vscode 碎碎念
 * vscode 默认都颜色主题是黑色背景，虽然我看着不习惯，但是大多数人都使用这个风格，我就也尝试适应一下吧
