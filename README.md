@@ -22,6 +22,7 @@ shift + command + m 即打开 errors/warnnings 面板<br/>
 改变theme快捷键：command+k command+t 或者shift+command+p theme<br/>
 修改文件图标：shift + command + p 然后输入 file icon<br/>
 修改键盘快捷键：command+k command+s<br/>
+修改字体大小：shift+command+p 输入 open setting json 在文件中编辑 "editor.fontSize":18 即可<br/>
 
 ## vscode 碎碎念
 * vscode 默认都颜色主题是黑色背景，虽然我看着不习惯，但是大多数人都使用这个风格，我就也尝试适应一下吧
